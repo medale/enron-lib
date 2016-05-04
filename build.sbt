@@ -30,3 +30,5 @@ scalaVersion := "2.10.5"
 
 libraryDependencies += "org.apache.spark" %% "spark-core" % "1.6.1" % "provided"
 
+libraryDependencies += "org.scalatest" % "scalatest_2.10" % "2.2.6" % "test"
+
